@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony of the ministers in the province of Salop, to the truth of Iesus Christ, and to the Solemn League and Covenant; as also against the errors, heresies, and blasphemies of these times, and the toleration of them. Sent up to the ministers within the province of London, subscribers of the first testimony.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95676</idno>
+            <idno type="STC">Wing T821</idno>
+            <idno type="STC">Thomason E442_18</idno>
+            <idno type="STC">ESTC R204703</idno>
+            <idno type="EEBO-CITATION">99864168</idno>
+            <idno type="PROQUEST">99864168</idno>
+            <idno type="VID">161698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161698)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony of the ministers in the province of Salop, to the truth of Iesus Christ, and to the Solemn League and Covenant; as also against the errors, heresies, and blasphemies of these times, and the toleration of them. Sent up to the ministers within the province of London, subscribers of the first testimony.</title>
+                  <author>Cook, Thomas, pastor of Drayton Magna.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.N. for Tho: Underhill at the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M. DC. XLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Thomas Cook pastor of Drayton magna [and 56 others].</note>
+                  <note>Annotation on Thomason copy: "May. 16.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Religious tolerance --  Great Britain --  Early works to 1800.</term>
+               <term>Clergy --  England --  Shropshire --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161698:1" rendition="simple:additions"/>
+            <p>A TESTIMONY OF THE Miniſters in the Province of <hi>Salop,</hi> TO THE Truth of Ieſus Chriſt, AND TO <hi>The Solemn League and Covenant;</hi> AS ALSO Againſt the Errors, Hereſies, and Blaſphemies of theſe times, and the Toleration of them. Sent up to the Miniſters within the Province of <hi>London,</hi> Subſcribers of the Firſt TESTIMONY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. N.</hi> for <hi>Tho: <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in Woodſtreet. M.DC.XLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:161698:2"/>
+            <pb n="3" facs="tcp:161698:2"/>
+            <head>THE TESTIMONY OF divers Miniſters in the Province of <hi>Salop,</hi> to the Truth, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving with ſingular contentment of minde, and ſweet refreſhment of ſpirit, peruſed the <hi>Teſtimony</hi> of our Brethren of the PROVINCE OF <hi>LONDON to the truths of Jeſus Chriſt; and againſt the Errors, Hereſies, and Blaſphemies of theſe times,</hi> un<g ref="char:EOLhyphen"/>to which we, as they, by a <hi>ſolemne Covenant</hi> with hands lift up to God have ingaged our ſelves; Our zeal for the glory of God, and regard of the ſouls of our brethren in which all have equall intereſt will not ſuffer us in this common cauſe to keep ſilence. And though it were eaſie to adde to the <hi>Cata<g ref="char:EOLhyphen"/>logue of Errors, Hereſies, and Blaſphemies,</hi> under ſundrie heads there layd down (our Age being as diſhonourably fruitfull as any other in theſe monſtrous births, to the ruine of ſouls) as alſo to manifeſt our atteſtation, to the oppoſite truths, ac<g ref="char:EOLhyphen"/>cording to the clear light of Scripture, and Confeſſion of Re<g ref="char:EOLhyphen"/>formed Churches; yet we ſhall at preſent for the one content our ſelves in the avouching of our ready aſſent, together with our Brethren, to the <hi>Confeſſion of Faith</hi> preſented to both <hi>Ho<g ref="char:EOLhyphen"/>nourable Houſes of Parliament,</hi> by the <hi>Aſſembly of Divines,</hi> called together, and yet ſitting by their Authority, in which the truth of Chriſt in the neceſſary concernments of <hi>Faith, Wor<g ref="char:EOLhyphen"/>ſhip,</hi> and <hi>Diſcipline,</hi> we conceive are piouſly, prudently, ſolid<g ref="char:EOLhyphen"/>ly, and fully aſſerted. And for the other, to declare to the world, our utter deteſtation, as of the particular errors, here<g ref="char:EOLhyphen"/>ſies, and blaſphemies there enumerated, ſo of all others of like nature, ſtanding in equall oppoſition, to the orthodox truth before mentioned, yet freely acknowledging, that ſome ſtand at a great diſtance from other in the degree of their danger, few ages bringing forth the parallel to ſundrie of
+<pb n="4" facs="tcp:161698:3"/>thoſe which for <hi>everlaſting deteſtation</hi> are there witneſſed againſt. And further, we concur with our reverend Brethren, that the happieſt expedient for prevention, obſtruction, and extirpation as well of errors in Doctrine, as ſcandals in con<g ref="char:EOLhyphen"/>verſation, is a ſpeedie and happie perfecting of the <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> begun, and in many places in ſome degrees of it now in proſecution; being fully perſwaded that it is conſonant to the rule of Scriptures and primitive practiſe in the Apoſtles times, and are confirmed therein by the happie bleſſing wher<g ref="char:EOLhyphen"/>with, experience teſtifieth it hath been honoured in ſeverall <hi>Reformed Churches,</hi> whiles other platforms (how ſpecious ſoe<g ref="char:EOLhyphen"/>ever, with which ſome piouſly affected have been taken) have been almoſt as ſoon as ſet up blaſted, not alone with wofull <hi>diviſions</hi> and <hi>ſchiſmes,</hi> but abominable <hi>hereſies,</hi> and <hi>apoſtaſies.</hi> And though we can willingly joyn hands with many bre<g ref="char:EOLhyphen"/>thren, whom we highly reverence, (that are of different judge<g ref="char:EOLhyphen"/>ment from us) yet from our ſouls we deteſt, the thought of ſuch licentiouſneſſe, <hi>viz:</hi> That opinions eminently deſtru<g ref="char:EOLhyphen"/>ctive to pietie, and publick peace, threatning and working the ſpeedie ruine of Souls, ſhould finde <hi>connivance,</hi> and TO<g ref="char:EOLhyphen"/>LERATION amongſt us; being well aſſured, that the Chriſtian Magiſtrate cannot anſwer his neglect before Gods tribunall, if he be not a revenger to execute wrath on theſe evill doers; ſpirituall as well as temporall adulteries, being <hi>an iniquitie to be puniſhed by the Judges,</hi> which if our godly Go<g ref="char:EOLhyphen"/>vernors in the dayes of our progenitors, had not beleeved, and accordingly acted, they had never ſerved Gods provi<g ref="char:EOLhyphen"/>dence in fulfilling the propheſie, that <hi>the Ten borns ſhall hate the whore, and ſhall make her deſolate and naked;</hi> Babylon had yet been in her pomp, and we their poſteritie had been yet in that blindneſſe and bondage. And for that <hi>Covenant</hi> in which we ſtand with ſuch ſolemnitie ingaged, we truſt we ſhall in all junctures of time eſteeme to be ſacred, well knowing the judgements of God upon Nations and perſons falſe in <hi>Cove<g ref="char:EOLhyphen"/>nant,</hi> fearing that for this our Nation alreadie ſuffers.</p>
+            <pb n="5" facs="tcp:161698:3"/>
+            <list>
+               <item>
+                  <hi>Thomas Cook</hi> Paſtor of <hi>Drayton magna.</hi>
+               </item>
+               <item>
+                  <hi>Tho: Porter</hi> Paſtor of <hi>Whitchurch.</hi>
+               </item>
+               <item>
+                  <hi>Francis Boughey</hi> Paſtor of <hi>Hodnet.</hi>
+               </item>
+               <item>
+                  <hi>Aylmer Houghton</hi> Paſtor of <hi>Prees.</hi>
+               </item>
+               <item>
+                  <hi>Andrew Parſon</hi> Paſtor of <hi>Wem.</hi>
+               </item>
+               <item>
+                  <hi>John Bisby</hi> Paſtor of <hi>Edſtaſton.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Wright</hi> Paſtor of <hi>Kinnerſley.</hi>
+               </item>
+               <item>
+                  <hi>Peter Nicolls</hi> Paſtor of <hi>Adderly.</hi>
+               </item>
+               <item>
+                  <hi>Iſaac Martin</hi> Rector of <hi>Bolas.</hi>
+               </item>
+               <item>
+                  <hi>Robert Benny</hi> Rector of <hi>Ightfield.</hi>
+               </item>
+               <item>
+                  <hi>William Gower</hi> Miniſter of <hi>Morton Corbet.</hi>
+               </item>
+               <item>
+                  <hi>Robert Powford</hi> Miniſter of <hi>Vppington.</hi>
+               </item>
+               <item>
+                  <hi>Humphrey Chambers</hi> Miniſter of <hi>Sterchley.</hi>
+               </item>
+               <item>
+                  <hi>Richard Fowler</hi> Miniſter of <hi>Longford.</hi>
+               </item>
+               <item>
+                  <hi>Henry Vaughan</hi> Paſtor of <hi>Moreton-ſay.</hi>
+               </item>
+               <item>
+                  <hi>John Malden</hi> Paſtor of <hi>Cheſwardine.</hi>
+               </item>
+               <item>
+                  <hi>Richard Sadler</hi> Preacher at <hi>Whixall.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Barton</hi> Paſtor of <hi>Broſely.</hi>
+               </item>
+               <item>
+                  <hi>George Baxter</hi> Paſtor of <hi>Little Wenlock.</hi>
+               </item>
+               <item>
+                  <hi>George Adeney</hi> Paſtor of <hi>Wenlock mag:</hi>
+               </item>
+               <item>
+                  <hi>Gilbert Walden</hi> Paſtor of <hi>Bridgnorth.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Busby</hi> Paſtor of <hi>Kimberton.</hi>
+               </item>
+               <item>
+                  <hi>Michael Thomas</hi> Rector of <hi>Stockton.</hi>
+               </item>
+               <item>
+                  <hi>Jonadab Birch</hi> Paſtor of <hi>Shifnall.</hi>
+               </item>
+               <item>
+                  <hi>Michael Richards</hi> Miniſter of <hi>Madely.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Adney</hi> Paſtor of <hi>Eaſthope.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Paſton</hi> Paſtor of <hi>Halesowen.</hi>
+               </item>
+               <item>
+                  <hi>Will: Martin</hi> Rector of <hi>Sidbury</hi> and <hi>Billingſley.</hi>
+               </item>
+               <item>
+                  <hi>Reginald Corbet</hi> Miniſter of <hi>Taſley.</hi>
+               </item>
+               <item>
+                  <hi>Richard Knot</hi> Miniſter of <hi>Barrow.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Niccolls</hi> Miniſter of <hi>Aſtley Abbots.</hi>
+               </item>
+               <item>
+                  <hi>Kichard Hayes</hi> Miniſter of <hi>Merveild.</hi>
+               </item>
+               <item>
+                  <hi>Jacob Iephcot mag: art.</hi>
+               </item>
+               <pb n="6" facs="tcp:161698:4"/>
+               <item>
+                  <hi>Iohn Spilsbury</hi> Paſtor of <hi>Chetton.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Froyſell</hi> Paſtor of <hi>Clun.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Hilderſam</hi> Rector of <hi>Weſtfelton.</hi>
+               </item>
+               <item>
+                  <hi>Ia: Wilding</hi> Rector of <hi>Sillatton.</hi>
+               </item>
+               <item>
+                  <hi>Francis Browne</hi> Rector of <hi>Shrawardine.</hi>
+               </item>
+               <item>
+                  <hi>Stephen Lewis</hi> Paſtor of <hi>Baſchurch.</hi>
+               </item>
+               <item>
+                  <hi>Richard Payne</hi> Miniſter of <hi>Neſtrange.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Watmore</hi> Vicar of <hi>Riton.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Soothil</hi> Miniſter of <hi>Monford.</hi>
+               </item>
+               <item>
+                  <hi>William Rock</hi> Miniſter of <hi>Aſton.</hi>
+               </item>
+               <item>
+                  <hi>Francis Wright jun.</hi> Preacher of <hi>Hadnal.</hi>
+               </item>
+               <item>
+                  <hi>Francis Garbett</hi> Paſtor of <hi>Wroxeter.</hi>
+               </item>
+               <item>
+                  <hi>Iames Betton</hi> Doctor of Divinitie &amp; Paſtor of <hi>Worthen.</hi>
+               </item>
+               <item>
+                  <hi>Francis Wright</hi> Paſtor of <hi>VVellington.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Blake</hi> Miniſter of <hi>Alkmonds Salop.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Fiſher</hi> Paſtor of <hi>Maryes Salop.</hi>
+               </item>
+               <item>
+                  <hi>Robert Alderſon</hi> Min: of the firſt portion of <hi>Pontisbury.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Smith</hi> Paſtor of <hi>Cund.</hi>
+               </item>
+               <item>
+                  <hi>Timothy Hammonds</hi> Miniſter of the ſecond portion of <hi>Pontisbury.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Andrews</hi> Miniſter of <hi>Pulverbach.</hi>
+               </item>
+               <item>
+                  <hi>Iames Smith</hi> Paſtor of <hi>Vpton mag:</hi>
+               </item>
+               <item>
+                  <hi>George Barkley</hi> Rector of <hi>Maynſton.</hi>
+               </item>
+               <item>
+                  <hi>Edward VVall</hi> Miniſter of <hi>Abberbury.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Stammer</hi> Paſtor of <hi>Atcham.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:161698:4"/>
+            <head>The Letter wherein the fore-re<g ref="char:EOLhyphen"/>cited Teſtimony was incloſed, to ſome Miniſters of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Reverend and dearly reſpected Brethren:</salute>
+            </opener>
+            <p>VVHen the <hi>Teſtimony</hi> of the Miniſters within the <hi>Pro<g ref="char:EOLhyphen"/>vince of London</hi> came firſt to our hands, and we had peruſed and weighed the Contents of it; as it gave us occa<g ref="char:EOLhyphen"/>ſion to magnifie the Name of God (whoſe truth and glory to the ſhame of this famous Church and Kingdome, have been ſo barbarouſly torn and wounded) for engaging the hearts, and hands of his ſervants in ſuch a worke, more worthy of their blood, then of their pens for teſtimony; ſo it began to a<g ref="char:EOLhyphen"/>waken the thoughts of diverſe to conſider, that all the Lords watchmen through the Nation, were equally concerned, as one man to ſtand up for the <hi>defence of the Goſpel,</hi> to <hi>contend for the faith once delivered to the Saints, to</hi> joyne hearts, hands, prayers, tears, and all that they are able to contribute in this <hi>Common ſalvation.</hi> Hereupon though we know that the glory of truth, needs no witneſſe from men, being in its own native luſter and ſtrength (as the Sun in its brightneſſe) able to ſcatter and diſpell all the ſtinking evaporations of the bottomles pit, which the Prince of darkneſſe and father of lyes ſends our to ecclipſe it; And though we are aſſured that adored pro<g ref="char:EOLhyphen"/>vidence which now ſuffers them, (as knowing, how to ſerve his own glorious purpoſe by the permiſſion) will in due ſeaſon look upon them, as <hi>Hels curſed of ſpring, Truths enemies,</hi> the <hi>Churches troublers,</hi> and ſpeake them to their own place againe. Yet being of the number of thoſe that are friends of truth, and (as we truſt) receive and love it in ſincerity, are imploy<g ref="char:EOLhyphen"/>ed in the ſtudie of Truth, have ſeen, and taſted ſomewhat of the beauty, and ſweetneſſe of it, and how unworthy ſoever, have obtained this grace to be truſted with the keeping, and diſpenſing of it, in which we tremble at the thought of being found unfaithfull, we have with other of our Brethern freely ſubſcribed the incloſed paper, wherein you have a weake yet
+<pb n="8" facs="tcp:161698:5"/>hearty expreſſions of our concurrence with the reſt of the Mi<g ref="char:EOLhyphen"/>niſters of Jeſus Chriſt, in their faithfull <hi>Teſtimonies,</hi> given to <hi>Go<g ref="char:EOLhyphen"/>ſpel</hi> Truth; to the <hi>ſolemn League and Covenant,</hi> and againſt the <hi>errors, hereſies,</hi> and <hi>blaſphemies</hi> of the times, and the <hi>licentious Toleration</hi> of them. We put it upon our account to be laſht by the tongues of ſome not onely profeſſed adverſaries, but alſo ſuch whoſe diſcretion hath ſuch forwardneſſe in diſtaſte; But this we truſt ſhall not move us, making it our humble requeſt to the <hi>Father of lights,</hi> that we may be as ready to <hi>ſeal</hi> this <hi>Teſti<g ref="char:EOLhyphen"/>mony</hi> with our <hi>lives,</hi> as to <hi>ſubſcribe</hi> it with our <hi>hands,</hi> (not knowing what is reſerved for you, or us, but ſeeming grounds of fear, that the jealous God is at hand, (it his wrath be not a<g ref="char:EOLhyphen"/>verted) to take up a Controverſie with this land, (as for other abhominations, ſo) for its evident <hi>unfaithfulneſſe</hi> to God, and fearfull <hi>Apoſtacy</hi> from the purity of Doctrine; we hold it ſafeſt to be found in the diſcharge of our duties, not amongſt thoſe <hi>that draw back</hi> from the Truth, but bear witneſſe to it, caſting our ſelves upon the ſtreame of Providence, and reſting on God for an happy iſſue.</p>
+            <closer>
+               <signed>Your Brethren, and fellow-Servants in the Labours of the Goſpel.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
